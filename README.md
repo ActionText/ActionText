@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @ActionText
-- 👀 I’m interested in roblox developing
-- 🌱 I’m currently learning lua scripting
-- 💞️ I’m looking to collaborate on BIG and small projects
-- 📫 How to reach me via discord @actiontext
-- 😄 Pronouns: she/her or Fuck/You
-- ⚡ Fun fact: nothing
+why are you looking at my profile >:(
