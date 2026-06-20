@@ -1,1 +1,23 @@
-why are you looking at my profile >:(
+<div align="center">
+<img src="banner.png" width="100%" alt="dinahsaur banner">
+
+# dinahsaur <3
+
+Software • Hardware • Robotics • Astronomy • Biology • Physics
+
+Building systems from silicon to software.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,linux,git"/>
+
+<br>
+
+`Verilog` · `PCB Design` · `CAD`
+
+<br>
+
+*Selected public work.*  
+*Most projects remain private as intellectual property.*
+
+</div>
