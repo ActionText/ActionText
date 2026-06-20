@@ -20,8 +20,6 @@
 
 `Verilog` • `PCB Design` • `CAD`
 
-<br><br>
-
 *Selected public work.*
 *Most projects remain private.*
 
