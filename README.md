@@ -10,7 +10,7 @@
 
 <br>
 
-**Software • Hardware • Robotics • Astronomy • Biology • Physics**
+**Software • Hardware • Robotics • Physics • Astronomy • Biology**
 
 <br>
 
@@ -23,6 +23,6 @@
 <br><br>
 
 *Selected public work.*
-*Most projects remain private as intellectual property.*
+*Most projects remain private.*
 
 </div>
