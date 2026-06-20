@@ -21,6 +21,6 @@
 `Verilog` • `PCB Design` • `CAD`
 
 *Selected public work.*
-*Most projects remain private.*
+*Most projects remain private under intellectual property.*
 
 </div>
