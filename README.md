@@ -1,11 +1,16 @@
 <div align="center">
-<img src="banner.png" width="100%" alt="banner">
+
+<img src="banner.png" width="100%" alt="Banner">
+
+<br>
 
 # dinahsaur <3
 
-Software • Hardware • Robotics • Astronomy • Biology • Physics
+*Building systems from silicon to software.*
 
-Building systems from silicon to software.
+<br>
+
+**Software • Hardware • Robotics • Astronomy • Biology • Physics**
 
 <br>
 
@@ -13,11 +18,11 @@ Building systems from silicon to software.
 
 <br>
 
-`Verilog` · `PCB Design` · `CAD`
+`Verilog` • `PCB Design` • `CAD`
 
-<br>
+<br><br>
 
-*Selected public work.*  
+*Selected public work.*
 *Most projects remain private as intellectual property.*
 
 </div>
